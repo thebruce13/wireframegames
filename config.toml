@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.wireframegames.com"
 languageCode = "en-us"
 title = "Wireframe Games"
 theme = "wireframegames"
